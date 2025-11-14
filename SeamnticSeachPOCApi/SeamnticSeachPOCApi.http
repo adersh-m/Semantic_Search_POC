@@ -1,0 +1,6 @@
+@SeamnticSeachPOCApi_HostAddress = http://localhost:5143
+
+GET {{SeamnticSeachPOCApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
